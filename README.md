@@ -1,3 +1,14 @@
+# Autenticación de datos con React
+
+![vista](https://raw.githubusercontent.com/velvetcerise/login-React/master/public/images/formulario.png)
+
+
+
+
+
+
+
+## Instructions 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
